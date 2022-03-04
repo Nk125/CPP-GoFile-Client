@@ -1,5 +1,5 @@
 #define CPPHTTPLIB_OPENSSL_SUPPORT
-#include "binaryhandling.hpp"
+#include "binaryhandler.hpp"
 #include "httplib.h"
 #include <iostream>
 #include "json.hpp"
