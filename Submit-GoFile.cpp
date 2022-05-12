@@ -5,10 +5,8 @@
 #include "json.hpp"
 #include "MimeTypes.hpp"
 #include <string>
-#pragma comment(lib, "advapi32")
 #pragma comment(lib, "libssl")
 #pragma comment(lib, "libcrypto")
-#pragma comment(lib, "user32")
 
 std::string file, token, mime, pass;
 bool verb = false;
